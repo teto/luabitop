@@ -3,8 +3,7 @@ version = "1.0.2-3"
 
 source = {
   -- url = "git://github.com/LuaDist/luabitop.git",
-  url = "git://github.com/teto/luabitop.git",
-  branch = "1.0.2"
+  url = "git://github.com/teto/luabitop.git"
 }
 
 description = {
